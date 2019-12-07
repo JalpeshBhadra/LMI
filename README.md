@@ -1,1 +1,1 @@
-Hinf optimal state feedback problem
+LMI codes for wiki book
