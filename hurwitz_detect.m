@@ -24,4 +24,3 @@ gamma = value(gamma)
 P = value(P)
 eig(P)
 %System is not Hurwitz Detectable
-% System is not 
